@@ -1,0 +1,27 @@
+.box {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.friendAvatar {
+  margin: 5px auto;
+}
+
+.friendName {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.friendStatus {
+  text-align: center;
+}
+
+.isOnline {
+  color: rgb(47, 236, 47);
+}
+
+.isOffline {
+  color: red;
+}
